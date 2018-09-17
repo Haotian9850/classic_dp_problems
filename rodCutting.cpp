@@ -1,6 +1,6 @@
 /*
 * Rod-cutting: given a rod with length L, and prices of different lengths, goal: achieve maximum profit
-* DP approach
+* DP implementation
 */
 
 #include <iostream>
